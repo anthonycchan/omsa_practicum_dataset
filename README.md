@@ -1,5 +1,11 @@
 "# omsa_practicum_dataset" 
 
-Please install the following libraries using this command:
+Anomaly Detection On Low Resolution Photography On The Martian Surface Using High Dimensional Tensor Decomposition
 
-	pip install numpy scikit-learn tensorly matplotlib tensorflow
+Instructions:
+	Please install the following libraries using this command:
+
+		pip install numpy scikit-learn tensorly matplotlib tensorflow
+
+
+
